@@ -7,7 +7,6 @@ export const metadata: Metadata = {
   title: "Project Dashboard - Manage Your Projects",
   description: "A feature-rich project management dashboard with real-time updates, advanced filtering, and role-based access.",
   manifest: "/manifest.json",
-  themeColor: "#000000",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
