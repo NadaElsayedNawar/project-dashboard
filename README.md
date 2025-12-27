@@ -6,8 +6,7 @@ Installation & Setup
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd project-dashboard
+git clone https://github.com/NadaElsayedNawar/project-dashboard.git
 ```
 
 ### Step 2: Install Dependencies
